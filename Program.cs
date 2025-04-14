@@ -11,6 +11,7 @@ namespace CarForHireConsoleApp
             bool isExit = true;
             MainLoop(ref isExit);
             Console.WriteLine("Hi");
+            Console.WriteLine("New line");
             
         }
 
